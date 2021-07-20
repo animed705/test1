@@ -1,1 +1,4 @@
-style folder (from main branch rn)
+style folder (from main branch rn + things from style branch )
+
+
+changed colors (from style branch rn)
