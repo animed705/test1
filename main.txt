@@ -2,7 +2,7 @@ the content of main + extra tooo (branch right now)
 
 added coolthings(from branch coolthings rn)
 
-blah go blah
+blah go blah (more things from local side)
 
 things done in git stash
  things from remote sideee !!! moree
