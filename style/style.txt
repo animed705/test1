@@ -2,3 +2,5 @@ style folder (from main branch rn + things from style branch )
 
 
 changed colors (from style branch rn)
+
+doing changes in temp branch before pulling from main
